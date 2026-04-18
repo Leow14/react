@@ -1,25 +1,10 @@
-import Card from "./Card.jsx"
+import Button from './Button/button.jsx'
 
 function App() {
 
   return(
     <>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    
+    <Button/>
     </>
   );
 }
